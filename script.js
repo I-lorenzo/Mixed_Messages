@@ -21,7 +21,6 @@ for (let i = 0; i < 1; i++) {
     const randomValue = getRandom(predictions);
     console.log(randomValue);
 }
-
-
+//run
 
 
